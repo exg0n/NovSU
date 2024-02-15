@@ -1,0 +1,3 @@
+﻿  pr_1.cpp
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\pr_1\pr_1.cpp(62,17): warning C4305: инициализация: усечение из "double" в "float"
+  pr_1.vcxproj -> C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\pr_1\x64\Debug\pr_1.exe
