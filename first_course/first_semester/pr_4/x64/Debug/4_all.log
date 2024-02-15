@@ -1,0 +1,5 @@
+﻿  4_all.cpp
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_4\4_all\4_all.cpp(444,10): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_4\4_all\4_all.cpp(461,10): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_4\4_all\4_all.cpp(841,13): warning C4804: <=: небезопасное использование типа "bool" в операции
+  4_all.vcxproj -> C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_4\4_all\x64\Debug\4_all.exe
