@@ -1,0 +1,4 @@
+﻿  pr_5.cpp
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_5\pr_5.cpp(771,18): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_5\pr_5.cpp(787,18): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  pr_5.vcxproj -> C:\Users\exgon\Documents\Моё\НовГУ\АЯиП\Практика\Семестр 1\pr_5\x64\Debug\pr_5.exe
