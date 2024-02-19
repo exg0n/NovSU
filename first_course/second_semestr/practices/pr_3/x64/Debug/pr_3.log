@@ -1,0 +1,3 @@
+﻿  pr_3.cpp
+C:\Users\exgon\Downloads\pr_3\pr_3.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr_3.vcxproj -> C:\Users\exgon\Downloads\pr_3\x64\Debug\pr_3.exe
